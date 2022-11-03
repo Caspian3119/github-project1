@@ -292,7 +292,7 @@ input[type="submit"]:hover {
 }
 .card{
   background-color: rgb(68, 68, 68);
-  height: 45vh;
+  height: 47vh;
   width: 30%;
   float: left;
   overflow: hidden;
@@ -321,11 +321,9 @@ input[type="submit"]:hover {
 .cardDesc{
   padding:0 1rem;
   padding-top: 0.5em;
-  height: 8vh;
   overflow: auto;
-
 }
-.cardBtn{
+.cardBtn{ 
   padding: 0.5rem;
   font-family:inherit;
   font-weight: bold;
